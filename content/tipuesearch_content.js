@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'Chiayi.city 重新建立 \n pip install flask flask_cors bs4 lxml pelican markdown pyopenssl \n 若使用 submodule, git submodule update --init --recursive', 'tags': '', 'url': 'About.html'}]};
